@@ -1,4 +1,4 @@
-# Homebound [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+# Repuzzle [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 <table style=" table, th, td { border: 1px solid black; }">
     <tr>
@@ -32,8 +32,6 @@
         </td>
     </tr>
 </table>
-
-Homebound is a tool that bootstraps your dotfiles on Linux, OSX, and Windows.
 
 ## License
 
