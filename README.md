@@ -21,16 +21,6 @@
                 </a>
         </td>
     </tr>
-    <tr>
-        <td>
-            <strong>License</strong>
-        </td>
-        <td colspan="2">
-            <a href="#license" title="License: MIT">
-                <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license-badge"></img>
-            </a>
-        </td>
-    </tr>
 </table>
 
 ## License
