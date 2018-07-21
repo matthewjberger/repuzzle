@@ -1,0 +1,8 @@
+[package]
+name = "repuzzle"
+version = "0.1.0"
+authors = ["Matthew J. Berger <matthewberger@nevada.unr.edu>"]
+
+[dependencies]
+gl = "0.10.0"
+glutin = "0.17.0"
